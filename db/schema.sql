@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS tracker_db;
-CREATE DATABASE IF NOT EXISTS tracker_db;
+CREATE DATABASE tracker_db;
 
 \c tracker_db;
 
